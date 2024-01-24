@@ -8,4 +8,4 @@ Hey, I'm the starter of the developer trio that has a little experience both UI 
 Eternalbliss will edit his section when he has time, he's a good website designer though:)
 
 ## Littlebitsman
-He's a good developer, that's all I can say until he makes his website 🤷
+He's a good developer, that's all I can say until he makes his section lol
