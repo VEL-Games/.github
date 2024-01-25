@@ -6,6 +6,7 @@ Hey, I'm the starter of the developer trio that has a little experience both UI 
 
 ## Eternalbliss the Linux nerd 🤓🤓
 Eternalbliss will edit his section when he has time, he's a good website designer though:)
+- basically im just that one guy that knows the most random crap on linux things and i do website design sometimes
 
 ## littleBitsman
 i do a bunch of Luau/JS/TS/other things, the most known are:
